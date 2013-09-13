@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    veewee-to-packer (0.2.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  veewee-to-packer

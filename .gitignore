@@ -1,0 +1,5 @@
+.bundle/
+vendor/
+packer_cache/
+output-virtualbox/
+*.box
